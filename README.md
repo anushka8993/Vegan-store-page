@@ -1,9 +1,1 @@
 # Vegan-store-page
-![Screenshot (51)](https://github.com/anushka8993/Vegan-store-page/assets/96035858/09152459-3c82-464c-a668-b1600779b639)
-![Screenshot (50)](https://github.com/anushka8993/Vegan-store-page/assets/96035858/78a2c9b3-e8b0-4778-ac46-4250348fdf62)
-![Screenshot (49)](https://github.com/anushka8993/Vegan-store-page/assets/96035858/54630471-74af-430b-b67d-af6ee2f5444c)
-![Screenshot (48)](https://github.com/anushka8993/Vegan-store-page/assets/96035858/fab7a72f-0399-4285-9c39-854c6526b52f)
-![Screenshot (47)](https://github.com/anushka8993/Vegan-store-page/assets/96035858/b73345c5-1cf7-44c6-b9ac-7bf2db228453)
-![Screenshot (46)](https://github.com/anushka8993/Vegan-store-page/assets/96035858/9f81a063-639d-4533-a091-aad2173b23af)
-![Screenshot (53)](https://github.com/anushka8993/Vegan-store-page/assets/96035858/20ce1836-0550-4758-a5c6-03158ab87aab)
-![Screenshot (52)](https://github.com/anushka8993/Vegan-store-page/assets/96035858/7fd57da3-b83f-4072-8604-cde09f836b1e)
